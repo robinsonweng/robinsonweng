@@ -1,5 +1,3 @@
-<h3 align="center">Just a normal Programmer....</h3>
-
 <p align="middle">
 </p>
 
